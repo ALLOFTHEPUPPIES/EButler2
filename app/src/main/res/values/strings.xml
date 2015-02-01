@@ -4,5 +4,6 @@
     <string name="app_name">EButler2</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Welcome_Message">\"Welcome to EButler!  Let\'s get Started\"</string>
 
 </resources>
